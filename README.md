@@ -1,2 +1,2 @@
 # resume
-This is my resume for job hunting.
+This is my resume.
